@@ -1,1 +1,1 @@
-The home of the [neatworks](https://github.com/neatsys/neatworks) project is its friends. This organization serves as a namespace for the git dependencies of neatworks that are customized for its use cases.
+The home of the [neatworks](https://github.com/neatsys/neatworks) project and its friends. This organization serves as a namespace for the git dependencies of neatworks that are customized for its use cases.
